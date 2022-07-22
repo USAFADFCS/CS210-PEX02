@@ -10,7 +10,7 @@ char getCharSafe();
 
 int getNextCard();
 
-double getProbabilityOfCardOrLower(int desiredCard);
+double getProbabilityOfValueOrLower(int desiredValue);
 
 void displayGameState(char* player1Name, int player1Score);
 
